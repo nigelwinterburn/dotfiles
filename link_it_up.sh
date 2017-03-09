@@ -5,3 +5,5 @@ for FILE in .vimrc .bash_profile .git-prompt.sh .git-completion.bash .gitconfig 
 do
   ln -sfhv ~/dotfiles/$FILE ~
 done
+
+fooooo
